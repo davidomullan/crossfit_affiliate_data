@@ -1,5 +1,5 @@
 # CrossFit Affiliate Data
-- Webscrape CrossFit.com for list of affiliates gyms and associated information
+- Webscrape CrossFit.com for a list of affiliate gyms and associated information
 
 ## Acknowledgments
 - 'download_data.py' Developed by [David OMullan](https://github.com/davidomullan)
