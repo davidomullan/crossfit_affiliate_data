@@ -19,11 +19,14 @@ Developed with [Python 3.9.13] (https://www.python.org/download/releases/3.0/)
 2. Type 'python3 download_data.py', and press enter or return.
 3. Wait for data to save in 'data_file.csv'
 
-![Image](data_file.png "How to execute download_data.py")
+![Image](download_data.png "How to execute download_data.py")
 
 ## Execution
 1. Open command line interface (i.e. Terminal for MacOS, Command Prompt for Windows)
 2. Type 'python3 download_individual_data.py', and press enter or return.
 3. Wait for data to save in 'individual_data_file.csv'
 
-![Image](individual_data_file.png "How to execute download_individual_data.py")
+![Image](download_individual_data.png "How to execute download_individual_data.py")
+
+![Image](statistics.png "Interesting CrossFit Affiliate Statistics")
+![Image](affiliates_over_years.png "When Current Affiliates Joined")
