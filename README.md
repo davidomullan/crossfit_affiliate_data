@@ -30,4 +30,4 @@ Developed with [Python 3.9.13] (https://www.python.org/download/releases/3.0/)
 ![Image](download_individual_data.png "How to execute download_individual_data.py")
 
 ![Image](statistics.png "Interesting CrossFit Affiliate Statistics")
-![Image](affiliates_over_years.png "When Current Affiliates Joined")
+![Image](when_affiliates_joined.png "When Current Affiliates Joined")
